@@ -16,3 +16,5 @@ The forecast will be for 2017-01-01 till 2017-12-31.
 The result of prediction for each algorithm evaluate by MAPE measure are as bellow:
 
 <img src='images/MAPE measure.png'>
+
+<a href='http://mahyak.ca' target='_blanck'>Read More ...</a>
